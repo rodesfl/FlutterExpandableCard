@@ -1,7 +1,7 @@
 # Flutter Expandable Card
 Simple and customizable expandable card widget, based on the Bernardi23 great project: [Here](https://github.com/Bernardi23/expandable_card "Here")
 
-<hr>
+![](https://media.giphy.com/media/KzWAVUJfrgqDqqFDMn/giphy.gif)
 
 ### How to use it
 Inside a `Scaffold` body, use the `ExpandableCard` widget, which requires two main attributes to be set:
